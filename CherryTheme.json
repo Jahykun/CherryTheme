@@ -2,7 +2,7 @@
     "name": "CherryTheme",
     "author": "Jahy",
     "version": "1.0.0",
-    "updater": "https:\/\/github.com\/Jahykun\/CherryTheme",
+    "updater": "https://raw.githubusercontent.com/Jahykun/CherryTheme/main/CherryTheme.json",
     "color_link": -1143378,
     "mention_highlight": -3970937,
     "simple_accent_color": -9816761,

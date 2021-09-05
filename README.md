@@ -1,3 +1,4 @@
+# [Download](https://raw.githubusercontent.com/Jahykun/CherryTheme/main/CherryTheme.json)
 
 # CherryTheme
 It's a Cherrytheme for Aliucord. Made by Jahy.
